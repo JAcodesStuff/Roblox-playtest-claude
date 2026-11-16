@@ -23,17 +23,6 @@ The report distinguishes confirmed findings from suspicions and explicitly lists
 - `.claude/skills/roblox-game-qa/SKILL.md`: the playtest workflow and reporting rules
 - `templates/qa-report.md`: a ready-to-fill report format
 
-## Share on GitHub
+## GitHub repository
 
-Create an empty GitHub repository, then from this folder run:
-
-```sh
-git init
-git add README.md .claude templates
-git commit -m "Add Roblox gameplay QA skill"
-git branch -M main
-git remote add origin https://github.com/YOUR-USERNAME/roblox-gameplay-qa.git
-git push -u origin main
-```
-
-Replace the remote URL with your repository's URL. Review the files before sharing and do not add credentials or private player data.
+Published at [JAcodesStuff/Roblox-playtest-claude](https://github.com/JAcodesStuff/Roblox-playtest-claude). Review files before sharing and do not add credentials or private player data.
